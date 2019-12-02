@@ -83,6 +83,7 @@ def gross_per_studio(collection)
   index = 0 
   while index < collection.length do 
     if !result[collection[index][:studio]]
+      result = [collection]
   
 end
 
