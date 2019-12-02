@@ -117,7 +117,7 @@ def movies_with_directors_set(source)
     index += 1 
   end
   
-  result
+  pp result
   
 end
 
